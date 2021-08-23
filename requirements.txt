@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+sklearn
+pydantic
+fastapi
+uvicorn
+gunicorn
+Sastrawi
+python-crfsuite
+swifter
